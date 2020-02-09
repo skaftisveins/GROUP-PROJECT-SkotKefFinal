@@ -1,5 +1,7 @@
 # SkotKef appið - Lokaverkefni forritunarbrautar í NTV
 
+[!homescreen][https://project-images.gitconnectedcontent.com/4970bdc1-83ba-4f2b-a89c-3c431566073d-desktop]
+
 ## Virkni appsins
 
 Velja má á milli litaþema í haus appsins hægra megin.
