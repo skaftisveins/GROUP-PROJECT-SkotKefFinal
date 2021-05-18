@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950655445210-m9jbf7q4m0os6k4jiql24sd0ppe4gjfp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950655445210-m9jbf7q4m0os6k4jiql24sd0ppe4gjfp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcitOLNlYqiaJy_6ZF9ERcOrX855MhBB0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950655445210</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.skaftisveins.skotKeflavik</string>
+	<key>PROJECT_ID</key>
+	<string>skotkef-f9820</string>
+	<key>STORAGE_BUCKET</key>
+	<string>skotkef-f9820.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950655445210:ios:214142a90a0d7740d81de3</string>
+	<key>DATABASE_URL</key>
+	<string>https://skotkef-f9820.firebaseio.com</string>
+</dict>
+</plist>

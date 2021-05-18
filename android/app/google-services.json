@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950655445210",
+    "firebase_url": "https://skotkef-f9820.firebaseio.com",
+    "project_id": "skotkef-f9820",
+    "storage_bucket": "skotkef-f9820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950655445210:android:2a4f3dc28d51804cd81de3",
+        "android_client_info": {
+          "package_name": "skaftisveins.skot_keflavik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950655445210-oprfpno5j14l04mr7k0vmbfahls3g4ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQAj1h6uPlAqwg-AS5iv2hdE_i9Xzdd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950655445210-oprfpno5j14l04mr7k0vmbfahls3g4ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
